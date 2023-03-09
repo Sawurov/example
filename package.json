@@ -1,0 +1,38 @@
+{
+  "name": "react-three-fiber-w-scrolltrigger",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "r3f",
+    "scrolltrigger",
+    "gsap",
+    "greensock",
+    "react",
+    "three",
+    "react three fiber"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/cannon": "6.1.0",
+    "@react-three/drei": "9.1.2",
+    "@react-three/fiber": "8.0.8",
+    "gsap": "3.10.2",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "styled-components": "5.3.5",
+    "three": "0.139.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
